@@ -29,8 +29,7 @@ article 2:
 paragraph: I cannot believe that our factory system is the best mode by which men may get clothing. The condition of the operatives is becoming every day more like that of the English; and it cannot be wondered at, since, as far as I have heard or observed, the principal object is, not that mankind may be well and honestly clad, but, unquestionably, that corporations may be enriched. In the long run men hit only what they aim at. Therefore, though they should fail immediately, they had better aim at something high.
 
 section 2: 
-header h3: Self Reliance
-
+header h3: 
 header h4: Emerson Uses Abstraction
 
 article 1:  Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not minors and invalids in a protected corner, not cowards fleeing before a revolution, but guides, redeemers, and benefactors, obeying the Almighty effort, and advancing on Chaos and the Dark.
