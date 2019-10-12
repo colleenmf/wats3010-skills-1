@@ -145,9 +145,9 @@ footer {
   top: 45%;
 }
 
-.align-right {
+.align-left {
   position: absolute;
-  right: 2%;
+  left: 2%;
   top: 45%;
 }
 ```
