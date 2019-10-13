@@ -53,29 +53,15 @@ see https://www.w3schools.com/cssref/pr_tab_table-layout.asp
 }
 ```
 3. Add the table-cell display to the `col` class selector.  In addition set up a border with curved corners and a height of 100%.
-```
-.col {
-  display: table-cell;
-  border: 1px solid lightgray;
-  border-radius: 10px;
-  height: 100%;
-}
-```
+```.col
+
+
+
+
 4. Using the backgound properties that control size, position and repeat, the background or 2 of the `col` divs is setup to render an image from the images directory
 ```
-#camel-img {
-  background: url("../images/camel.jpg");
-  background-size: cover;
-  height: 100%;
-  background-position: center right;
-  background-repeat: no-repeat;
-}
-#cayote-img {
-  background: url("../images/cayote.jpg");
-  background-size: cover;
-  height: 100%;
-  background-position: center right;
-  background-repeat: no-repeat;
+.row {
+  display: table-row;
 }
 ```
 5. Provide some style for the text in the column paragrphs.  
